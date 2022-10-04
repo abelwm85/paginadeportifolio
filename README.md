@@ -1,0 +1,1 @@
+Projeto landing page, feito para fins de estudo em html e css.
